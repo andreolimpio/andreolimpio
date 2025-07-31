@@ -12,7 +12,8 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por ensinar, programar e transformar ideias em sistemas funcionais e jogos envolventes. Tenho experiência com bancos de dados relacionais (MySQL, PostgreSQL), desenvolvimento web e mobile, e criação de jogos digitais em 2D e em 3D. 
+Sou apaixonado por ensinar, programar e transformar ideias em sistemas funcionais e jogos envolventes. 
+Tenho experiência com bancos de dados relacionais (MySQL, PostgreSQL) e não-relacionais (MongoDB, Apache Cassandra), desenvolvimento web (PHP, JavaScript, TypeScript) e mobile (React Native, Java), e criação de jogos digitais em 2D e em 3D (Unreal, Unity e JMonkeyEngine). 
 Acredito no poder da educação e da tecnologia como ferramentas de transformação.
 
 ---
