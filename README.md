@@ -1,6 +1,7 @@
 # 👨‍💻 André Olímpio
 
 🎓 Professor de Tecnologia da Informação | Produtor de Conteúdo Digital
+
 🧠 Administrador de Banco de Dados | Desenvolvedor de Sistemas de Software  
 🎮 Programador de Jogos Digitais  
 📍 São José dos Campos / Brasil
