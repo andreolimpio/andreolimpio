@@ -49,7 +49,7 @@ API REST com autenticação e banco PostgreSQL utilizando Prisma ORM.
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreolimpio)  
-📧 andre@email.com  
+📧 professor.andre.olimpio@gmail.com | andre.olimpio@univap.br  
 🌐 [Meu Site](https://somostodosti.com.br)
 
 
