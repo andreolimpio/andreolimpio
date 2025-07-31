@@ -32,10 +32,10 @@ Sou apaixonado por ensinar, programar e transformar ideias em sistemas funcionai
 Sistema educacional voltado à inclusão digital. Backend em Java + Banco PostgreSQL.
 
 ### 🎮 [Jogo Educacional 3D (em desenvolvimento)](https://github.com/andreolimpio/jogo-educacional)
-Protótipo de game educativo usando Unity e C#.
+Protótipo de game educativo utilizando Unity e C#.
 
 ### 🛠️ [CRUD de Usuários em TypeScript](https://github.com/andreolimpio/crud-usuarios-ts)
-API REST com autenticação e banco PostgreSQL usando Prisma ORM.
+API REST com autenticação e banco PostgreSQL utilizando Prisma ORM.
 
 ---
 
