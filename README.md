@@ -29,7 +29,7 @@ Sou apaixonado por ensinar, programar e transformar ideias em sistemas funcionai
 ## 🔥 Projetos em Destaque
 
 ### 🎯 [Somos Todos TI](https://github.com/andreolimpio/somostodosti)
-Sistema educacional voltado à inclusão digital. Backend em Java + Banco PostgreSQL.
+Sistema educacional voltado à inclusão digital. Backend em Java + Banco de Dados MySQL.
 
 ### 🎮 [Jogo Educacional 3D (em desenvolvimento)](https://github.com/andreolimpio/jogo-educacional)
 Protótipo de game educativo utilizando Unity e C#.
