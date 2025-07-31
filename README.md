@@ -16,14 +16,22 @@ Acredito no poder da educação e da tecnologia como ferramentas de transformaç
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)  
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)  
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+![JMonkeyEngine](https://img.shields.io/badge/JMonkeyEngine-ED1C24?style=flat&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![UML](https://img.shields.io/badge/UML-Modeling-blue?style=flat&logoColor=white)
 
 ---
 
