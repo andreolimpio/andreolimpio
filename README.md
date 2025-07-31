@@ -1,15 +1,16 @@
 # 👨‍💻 André Olímpio
 
-🎓 Professor de Tecnologia da Informação  
+🎓 Professor de Tecnologia da Informação | Produtor de Conteúdo Digital
 🧠 Administrador de Banco de Dados | Desenvolvedor de Sistemas de Software  
 🎮 Programador de Jogos Digitais  
-📍 Brasil
+📍 São José dos Campos / Brasil
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por ensinar, programar e transformar ideias em sistemas funcionais e jogos envolventes. Tenho experiência com bancos de dados relacionais (MySQL, PostgreSQL), desenvolvimento web e mobile, e criação de jogos 2D e 3D. Acredito no poder da educação e da tecnologia como ferramentas de transformação.
+Sou apaixonado por ensinar, programar e transformar ideias em sistemas funcionais e jogos envolventes. Tenho experiência com bancos de dados relacionais (MySQL, PostgreSQL), desenvolvimento web e mobile, e criação de jogos digitais em 2D e em 3D. 
+Acredito no poder da educação e da tecnologia como ferramentas de transformação.
 
 ---
 
