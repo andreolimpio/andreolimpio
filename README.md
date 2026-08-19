@@ -112,14 +112,6 @@ The project includes educational content, courses, technical guides, software pr
 
 ---
 
-## 📊 GitHub Activity
-
-![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreolimpio&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreolimpio&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 - 🌐 [Somos Todos T.I.](https://somostodosti.com.br)
