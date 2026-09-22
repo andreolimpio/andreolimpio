@@ -121,7 +121,7 @@ The project includes educational content, courses, technical guides, software pr
 
 - 🌐 [Somos Todos T.I.](https://somostodosti.com.br)
 - 💼 [LinkedIn](https://linkedin.com/in/andre.olimpio)
-- 📧 Professional contact: [andre@somostodosti.com.br](mailto:andre@somostodosti.com.br)
+- 📧 Professional contact: [andre@somostodosti.com.br](mailto:andre@somostodosti.com.br) / [professor.andre.olimpio@gmail.com](mailto:professor.andre.olimpio@gmail.com)
 
 ---
 
