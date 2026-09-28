@@ -22,7 +22,7 @@ I believe technology education should go beyond learning syntax and tools. My go
 ## 💻 Areas of Expertise
 
 ### Software Development
-Programming • Object-Oriented Programming • Web Development • Mobile Development • APIs
+Programming • Object-Oriented Programming • Web Development • Mobile Development • Game Development • APIs
 
 ### Software Engineering
 Requirements Engineering • Software Architecture • UML • Software Testing • Git • GitHub
