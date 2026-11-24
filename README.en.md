@@ -1,84 +1,66 @@
-Hi, I'm André Olímpio 👋
-Professor of Information Technology | Software Developer | Technology Educator
-I work at the intersection of software development, education, and technology, teaching and developing projects in programming, databases, software engineering, artificial intelligence, web and mobile development.
+[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
 
-I believe technology education should go beyond learning syntax and tools. My goal is to help students understand how to think, design, build, document, and improve software professionally.
+Hi, I'm André Olímpio! 👋
+Information Technology Professor | Software Developer | Digital Entrepreneur
 
-👨‍🏫 About Me
-🎓 Professor of Information Technology since 2005
-💻 Software developer and technology educator
-📚 Experience in technical education, undergraduate and postgraduate programs
-🧠 Areas of interest include Software Engineering, AI, Databases, Web and Mobile Development
-🚀 Creator of Somos Todos T.I., an educational initiative focused on technology education and professional development
-🔬 Developer of educational and technology projects
-💻 Areas of Expertise
-Software Development
-Programming • Object-Oriented Programming • Web Development • Mobile Development • Game Development • APIs
+I have worked in Information Technology education since 2005, bringing together classroom experience, software development projects, and practical learning resources.
 
-Software Engineering
-Requirements Engineering • Software Architecture • UML • Software Testing • Git • GitHub
+My work spans programming, software engineering, databases, data science, artificial intelligence, and game development. I believe learning technology involves more than becoming familiar with programming languages: it requires analyzing problems, designing solutions, building, testing, documenting, and continuously improving software.
 
-Databases & Data
-MySQL • PostgreSQL • MongoDB • Database Modeling • SQL • Data Analysis
-
-Artificial Intelligence
-Artificial Intelligence • Machine Learning • Generative AI • AI-assisted Software Development
-
-Technology Education
-Programming Education • Project-Based Learning • Educational Technology • Technical Training
-
-🛠️ Technologies & Tools
-Programming Languages
-Python Java JavaScript TypeScript PHP C# Kotlin
-
-Web & Mobile
-HTML5 CSS3 React React Native Node.js
-
-Game Development
-Unity Unreal Engine
-
-Databases
-MySQL PostgreSQL MongoDB
-
-Development Tools
-Git GitHub VS Code Android Studio NetBeans Docker
-
+Here, I share code, technical documentation, and projects at different stages of development. My goal is to make the development process understandable, reproducible, and useful for students and fellow professionals alike.
+👨‍🏫 What I Do
+- Education: teaching programming and other IT disciplines, with an emphasis on applying concepts through projects.
+- Development: building and evolving applications, APIs, databases, and web and mobile solutions.
+- Software engineering: repository organization, modeling, architecture, version control, and documentation.
+- Digital projects: creating educational content and resources for technology training, including Somos Todos T.I.
 🚀 Featured Projects
-This section is currently being reorganized as part of the modernization of my GitHub portfolio.
+🐍 Python | Programming Exercises and Projects
+Examples and small projects used to teach programming logic and Python. The repository includes exercises involving conditionals, loops, functions, lists, and other programming constructs, along with educational projects.
 
-Selected projects in software development, programming education, databases, artificial intelligence, and educational technology will be published here with standardized documentation and professional development practices.
+What to explore: .py files and project directories to practice reading, running, and improving code.
+🌎 GeoAtlas | Geographic Information Application
+An educational project for studying web and mobile applications connected to a geographic database. The repository separates applications, database resources, and technical documentation.
 
-Good software is not just code that works. It should also be understandable, maintainable, testable, and well documented.
+What to explore: project organization, data modeling and architecture resources, and implementations under development.
+🎓 EduCore | Academic Management System
+A project focused on studying an academic application with a web interface, API, and relational database. It emphasizes separation of concerns and incremental development.
 
-🎓 Technology & Education
-Teaching technology is an important part of my professional work.
+What to explore: the initial TypeScript API structure, web interface files, and documentation.
+🔬 Other Projects in Progress
+I also develop and document initiatives in other areas of IT:
+- DataCity: an educational data science project focused on urban mobility using Python and MongoDB. Concept and design documentation is available; the application code has not yet been published in this repository.
+- MovieHub: a cross-platform project for studying web and mobile development, APIs, and data persistence. Repository structure and documentation are evolving.
+- LostArtifact: an adventure and exploration game project using Unity. Documentation is available; the game code has not yet been published in this repository.
+About project maturity: these repositories include educational resources, partial implementations, and planned projects. They will be updated incrementally, with clear information about what is available and what is still under development.
 
-My repositories are also used as educational resources to demonstrate not only programming concepts, but professional software development practices such as:
+🛠️ Skills and Tools
+Area	Technologies and practices
+Programming	Python, Java, JavaScript, TypeScript, PHP, C#, and Kotlin
+Web and mobile	HTML, CSS, Node.js, React Native, and API development
+Databases	MySQL, PostgreSQL, MongoDB, SQL, and data modeling
+Software engineering	Git, GitHub, UML, architecture, requirements, and testing
+Game development	Unity, Unreal Engine, and gameplay logic
+Data and AI	Data analysis, Python for data work, and artificial intelligence studies
 
-Repository organization
-Git and GitHub workflows
-Branching strategies
-Meaningful commits
-Pull Requests and code review
-Technical documentation
-README standards
-Software architecture
-Testing practices
-Project organization
-The objective is simple: teach students not only how to write code, but how to work like software professionals.
 
+Tools and approaches vary depending on each project's purpose and stage of development.
+📚 For Students Learning to Code
+If you're just getting started, I recommend exploring the Python repository first.
+
+A useful learning sequence is:
+1. Read the problem and try to design a solution before looking at the code.
+2. Examine the implementation and identify the programming constructs used.
+3. Run the example in your development environment.
+4. Change the inputs or rules and observe the results.
+5. Document what you've learned and create an improved version of the solution.
+The goal is not only to learn how to write code, but also how to understand, test, organize, and improve software.
 🌐 Somos Todos T.I.
-Somos Todos T.I. is my technology education initiative focused on making Information Technology knowledge practical, accessible, and professionally relevant.
+I'm the creator of Somos Todos T.I., a technology education initiative that provides content, projects, and resources to support the development of IT knowledge and skills.
 
-The project includes educational content, courses, technical guides, software projects, and learning resources covering different areas of Information Technology.
+Learn. Understand. Build.
+📫 Contact and Professional Links
+- Website: Somos Todos T.I.
+- LinkedIn: André Olímpio
+- Professional email: andre@somostodosti.com.br
 
-🌐 Website: somostodosti.com.br
-
-📫 Connect With Me
-🌐 Somos Todos T.I.
-💼 LinkedIn
-📧 Professional contact: andre@somostodosti.com.br / professor.andre.olimpio@gmail.com
-💡 My approach
-Learn. Build. Document. Share. Improve.
-
-Technology changes constantly. Good professionals keep learning with it.
+My guiding principle: keep learning, build responsibly, and share knowledge clearly and usefully.
