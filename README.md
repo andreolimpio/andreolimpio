@@ -1,4 +1,5 @@
 [🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
+
 Olá, eu sou André Olímpio! 👋
 Professor de Tecnologia da Informação | Desenvolvedor de Software | Empreendedor Digital
 
